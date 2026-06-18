@@ -1,6 +1,6 @@
 # r-you-ok
 
-A structured R learning curriculum built from zero — no prior R experience assumed.
+A structured R learning curriculum built from zero — limited to no prior R experience assumed.
 Concepts are introduced progressively, anchored to real data throughout.
 
 ---
